@@ -11,6 +11,12 @@ A machine learning application that predicts student exam scores based on variou
 - **Visual Analytics**: Radar charts and factor contribution analysis
 - **Performance Comparison**: Side-by-side model comparison
 
+## Live demo
+Try the demo here:
+
+[Open the live demo → Student Score Prediction by Aatiqa](https://student-score-prediction-by-nastenka.streamlit.app/)
+
+
 ## Quick Start
 
 ### 1. Install Dependencies
